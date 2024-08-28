@@ -27,8 +27,8 @@ namespace ConsoleApp7
                 }
             }
 
-            Console.WriteLine("The number of vowels in the string is: "+ count);// this prints out the statement 
-            Console.ReadLine();
+            Console.WriteLine("The number of vowels in the string is: "+ count);// this prints out the statement with variable count
+            Console.ReadLine();// Pause the program so u can see it.
         }
     }
 }
